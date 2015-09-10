@@ -1,0 +1,2 @@
+# OctoSimple
+A simpler OctoPrint
